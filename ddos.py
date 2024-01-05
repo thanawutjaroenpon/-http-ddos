@@ -623,7 +623,7 @@ def multiplication():
 	begin()
 
 def begin():
-	choice6 = input("Enter To Start Attack By Nattapon: ")
+	choice6 = input("Enter To Start Attack By Thanawut: ")
 	if choice6 == "":
 		loop()
 	elif choice6 == "Enter": 
